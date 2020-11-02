@@ -1,0 +1,22 @@
+{
+    "type": "Feature", 
+    "properties": { 
+        "name": "2015/7118 - Raby Road, Gledswood Hills", 
+        "population": 1475400 
+    }, 
+    "geometry": { 
+        "type": "Point", 
+        "coordinates": [ 150.778650, -34.009785 ] 
+    } 
+}
+{
+    "type": "Feature", 
+    "properties": { 
+        "name": "2015/7118 - Raby Road, Gledswood Hills", 
+        "population": 1475400 
+    }, 
+    "geometry": { 
+        "type": "Point", 
+        "coordinates": [ 150.801223, -33.986516 ]
+    } 
+}
